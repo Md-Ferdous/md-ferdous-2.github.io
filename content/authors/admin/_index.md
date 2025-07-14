@@ -6,8 +6,8 @@ title: 吳健雄
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Md. 
+last_name: Ferdous
 
 # Status emoji
 status:
@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: PhD Artificial Intelligence
-    institution: Stanford University
+    institution: GSTU
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
